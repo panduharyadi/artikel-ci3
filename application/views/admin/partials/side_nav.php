@@ -1,6 +1,6 @@
 <aside class="side-nav">
 	<div class="brand">
-		<h2>Berita Coding</h2>
+		<h2>CRUD TEST</h2>
 	</div>
 	<nav>
 		<a href="<?= site_url('admin/dashboard') ?>">Overview</a>
